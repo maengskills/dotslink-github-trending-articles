@@ -1,0 +1,32 @@
+@font-face {
+  font-family: Pretendard;
+  src: url("PretendardVariable.ttf") format("truetype");
+  font-weight: 100 900;
+  font-display: swap;
+}
+:root {
+  --paper: #fff;
+  --ink: #1c2434;
+  --accent: #2854dd;
+  --muted: #606a79;
+  --rule: #e7e9ed;
+  --reading-width: 748px;
+  --gutter: 24px;
+  --rank-gap: 8px;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--paper); color: var(--ink); font: 17px/1.75 Pretendard, system-ui, sans-serif; word-break: keep-all; overflow-wrap: anywhere; }
+header { border-bottom: 1px solid var(--rule); padding: 12px max(22px, calc((100vw - 700px)/2)); font-weight: 750; }
+main { max-width: var(--reading-width); margin: auto; padding: 28px var(--gutter) 72px; }
+h1 { font-size: clamp(29px, 5vw, 42px); line-height: 1.28; letter-spacing: -.04em; }
+h2 { margin: 50px 0 12px; }
+h3 { border-top: 1px solid var(--rule); padding-top: 18px; margin: 25px 0 0; font-size: 20px; }
+p { margin: 12px 0; }
+a, .issue { color: var(--accent); }
+a { text-underline-offset: 3px; }
+.issue, small, .stats, time, em { font-size: 14px; }
+small, .stats, time, em { color: var(--muted); }
+.stats { margin: 2px 0 6px; }
+.featured-rank { display: block; margin-top: var(--rank-gap); }
+.demo { display: block; width: 100%; height: auto; }
+pre { overflow-x: auto; }
