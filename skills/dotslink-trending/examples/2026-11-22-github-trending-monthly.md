@@ -22,7 +22,7 @@ Hallmark는 AI에게 웹페이지 디자인을 맡길 때 쓰는 스킬입니다
 
 ## GitHub 트렌딩 저장소 월간 순위 · 1~17위
 
-전체 언어 월간 목록에서 조회한 순서입니다. ‘이번 달’은 GitHub가 해당 목록에 표시한 스타 수, ‘누적’은 조회 당시의 전체 스타 수입니다. [조회 당시 순위 기록](2026-11-22-191518-kst-monthly.html) · [현재 GitHub 월간 순위](https://github.com/trending?since=monthly)
+전체 언어 월간 목록에서 조회한 순서입니다. ‘이번 달’은 GitHub가 해당 목록에 표시한 스타 수, ‘누적’은 조회 당시의 전체 스타 수입니다. [현재 GitHub 월간 순위](https://github.com/trending?since=monthly)
 
 ### 1위 · [<img src="https://github.githubassets.com/favicons/favicon.svg" width="16" height="16" alt=""> Nutlope/hallmark](https://github.com/Nutlope/hallmark#readme) · AI를 위한 웹 디자인 지침
 

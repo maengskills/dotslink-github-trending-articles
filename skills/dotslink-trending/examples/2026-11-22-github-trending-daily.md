@@ -22,7 +22,7 @@ AFFiNE(어파인)은 글을 쓰고 그림을 그리며 생각을 정리하는 �
 
 ## GitHub 트렌딩 저장소 일간 순위 · 1~16위
 
-한국 시간 오후 5시 45분, 전체 언어 일간 목록에 표시된 16곳입니다. ‘오늘’은 GitHub가 일간 목록에 표시한 스타 수, ‘누적’은 조회 당시의 전체 스타 수입니다. [오후 5시 45분 순위 기록](2026-11-22-174534-kst-trending.html) · [현재 GitHub 순위](https://github.com/trending?since=daily)
+한국 시간 오후 5시 45분, 전체 언어 일간 목록에 표시된 16곳입니다. ‘오늘’은 GitHub가 일간 목록에 표시한 스타 수, ‘누적’은 조회 당시의 전체 스타 수입니다. [현재 GitHub 순위](https://github.com/trending?since=daily)
 
 ### 1위 · [<img src="https://github.githubassets.com/favicons/favicon.svg" width="16" height="16" alt=""> elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter#readme) · 공개 보안 결함 사례 모음
 

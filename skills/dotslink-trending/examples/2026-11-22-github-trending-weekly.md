@@ -22,7 +22,7 @@ Plannotator는 코딩 에이전트가 내놓은 계획과 코드 변경을 브�
 
 ## GitHub 트렌딩 저장소 주간 순위 · 1~13위
 
-전체 언어 목록에 표시된 순서입니다. ‘이번 주’는 GitHub가 주간 목록에 표시한 스타 수, ‘누적’은 조회 당시 전체 스타 수입니다. [조회 당시 순위 기록](2026-11-22-190549-kst-weekly.html) · [현재 GitHub 주간 순위](https://github.com/trending?since=weekly)
+전체 언어 목록에 표시된 순서입니다. ‘이번 주’는 GitHub가 주간 목록에 표시한 스타 수, ‘누적’은 조회 당시 전체 스타 수입니다. [현재 GitHub 주간 순위](https://github.com/trending?since=weekly)
 
 ### 1위 · [<img src="https://github.githubassets.com/favicons/favicon.svg" width="16" height="16" alt=""> backnotprop/plannotator](https://github.com/backnotprop/plannotator#readme) · AI 계획·코드 변경 검토
 

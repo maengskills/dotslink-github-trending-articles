@@ -1,3 +1,4 @@
+<!-- 프로젝트 루트의 docs/{daily|weekly|monthly}/YYYY/MM/DD/에 마크다운과 HTML을 저장한다. HTML은 header 없이 같은 주기의 예시와 같은 main 구조를 쓴다. -->
 GitHub Trending · {{Daily | Weekly | Monthly 중 이번 호 하나}}
 
 {{YYYY.MM.DD}} · {{AM/PM hh:mm}} 기준 (KST)
@@ -73,7 +74,8 @@ GitHub Trending · {{Daily | Weekly | Monthly 중 이번 호 하나}}
 
 ## GitHub 트렌딩 저장소 {{일간 | 주간 | 월간}} 순위 · {{실제 순위 범위}}
 
-[조회 시점의 순위 기록]({{해당 호 보관본 주소}}) · [현재 GitHub 순위](https://github.com/trending?since={{daily 또는 weekly 또는 monthly}})
+<!-- 조회 시점의 고정 URL을 제공받으면 ‘조회 당시 순위’ 링크를 함께 표시한다. 별도 순위 파일은 생성하지 않는다. -->
+[현재 GitHub 순위](https://github.com/trending?since={{daily 또는 weekly 또는 monthly}})
 
 <!-- 첫 순위부터 마지막 순위까지 아래 블록을 반복한다. 대표 저장소도 원래 순위에 포함하고 한 줄 요약만 남긴다. 그 외 저장소는 각각 공식 자료를 확인해 구체적인 사용 예시를 한 가지씩 쓴다. 자료 모음이라면 실제 수록 자료를 예로 든다. -->
 
