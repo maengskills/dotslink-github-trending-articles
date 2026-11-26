@@ -14,11 +14,7 @@ Hallmark는 AI에게 웹페이지 디자인을 맡길 때 쓰는 스킬입니다
 
 ![수영장 예약 시안에서 시간대별 남은 자리와 선택한 시간을 보여주는 화면](https://raw.githubusercontent.com/Nutlope/hallmark/HEAD/docs/screenshots/refract.jpg)
 
-*공식 Refract 시안. 12:30 행의 ‘3 left’와 아래 ‘Book 12:30’ 버튼이 연결되고, 매진된 17:30은 ‘Full’로 표시됩니다.* [공식 예시](https://www.usehallmark.com/themes/refract/)
-
-이번 달 10위 Impeccable도 화면을 다듬는 도구입니다. 이미 그린 시안을 놓고 ‘어디를 고칠까?’ 묻는 팀이라면 그쪽부터 볼 만합니다. 이번 호는 첫 시안을 만드는 순간을 골랐습니다. 예약 담당자가 자주 받는 질문 하나를 꺼내면, 화면을 만드는 사람도 사진과 시간표 중 무엇을 앞에 놓을지 판단할 수 있기 때문입니다.
-
-설치 없이 브라우저에서 시안을 열어 시간표와 버튼을 함께 볼 수 있습니다. [수영장 예약 시안 열기](https://www.usehallmark.com/themes/refract/)
+*공식 Refract 시안. 12:30 행의 ‘3 left’와 아래 ‘Book 12:30’ 버튼이 연결되고, 매진된 17:30은 ‘Full’로 표시됩니다.* [수영장 예약 시안 열기](https://www.usehallmark.com/themes/refract/)
 
 ## GitHub 트렌딩 저장소 월간 순위 · 1~17위
 
